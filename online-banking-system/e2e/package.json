@@ -1,0 +1,12 @@
+{
+  "name": "obs-e2e",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Browser (end-to-end) tests for the Online Banking System. Optional: not needed to run the app.",
+  "scripts": {
+    "test": "node run.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.56.0"
+  }
+}
